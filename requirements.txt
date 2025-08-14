@@ -1,0 +1,1 @@
+pip install requests readchar urllib3 colorama console-utils socks
